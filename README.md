@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Dip</h1>
 <h3 align="center">A undergrad student in KUET</h3>
 
