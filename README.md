@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dip</h1>
-<h3 align="center">A undergrad student in KUET</h3>
+<h3 align="center">An undergrad student in KUET</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
